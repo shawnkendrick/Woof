@@ -4,7 +4,7 @@ Web scraper for St. Louis animal shelters. Recent dog listings are collected and
 
 ### Usage
 ```
-python3 fetch.py
+./fetch.py
 ```
 
 ### Sample Email

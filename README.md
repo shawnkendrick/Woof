@@ -35,10 +35,3 @@ Gender: Male
 Color: Gray
 Breed: Labrador Retriever mix
 ```
-
-### To Do
-
-1. Error handling
-2. Add dog's photo
-3. Add link to listing details
-4. Pass arguments for shelter zip code, distance or specific shelter

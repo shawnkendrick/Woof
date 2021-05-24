@@ -2,6 +2,15 @@
 
 Web scraper for St. Louis animal shelters. Recent dog listings are collected and emailed to the user.
 
+### Configure
+
+Set your email settings. 
+```
+smtp_server = "smtp.gmail.com"
+sender_email = "mymail@gmail.com" 
+receiver_email = "mymail@gmail.com" 
+```
+
 ### Usage
 ```
 ./fetch.py
